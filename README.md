@@ -40,7 +40,7 @@ Paper are organized by topics and years. More to be added.
 
 ## Datasets
 ### 2023
-- Open X-Embodiment: Robotic Learning Datasets and RT-X Models [website](https://robotics-transformer-x.github.io/)[arxiv](https://arxiv.org/abs/2310.08864)
+- Open X-Embodiment: Robotic Learning Datasets and RT-X Models [website](https://robotics-transformer-x.github.io/), [arxiv](https://arxiv.org/abs/2310.08864)
 
 ## Cross-embodiment
 ### 2022
